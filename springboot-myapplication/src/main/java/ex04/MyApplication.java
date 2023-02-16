@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ConfigurableApplicationContext;
 
 /**
- * @SpringBootApplication 메타 어노테이션
+ * @SpringBootApplication 메타 어노테이션, 하위 3개의 Annotation을 포함하고 있다
  * 
  *  + @SpringBootConfiguration: cf) ex01, ex02
  *  + @ComponentScan : ex04 하부 패키지를 스캐닝한다. cf) ex03
